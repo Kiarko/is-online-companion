@@ -3,7 +3,7 @@
         "type": "simple",
         "value": {
             "name": "Action",
-            "description": "Divine the action",
+            "description": "Define the action",
             "random-event": [
                 {
                     "upper": 1,
@@ -412,7 +412,7 @@
         "type": "simple",
         "value": {
             "name": "Theme",
-            "description": "Divine the theme",
+            "description": "Define the theme",
             "random-event": [
                 {
                     "upper": 1,
@@ -821,7 +821,7 @@
         "type": "simple",
         "value": {
             "name": "Region",
-            "description": "Divine the region",
+            "description": "Define the region",
             "random-event": [
                 {
                     "upper": 12,
@@ -870,7 +870,7 @@
         "type": "simple",
         "value": {
             "name": "Location",
-            "description": "Divine the location",
+            "description": "Define the location",
             "random-event": [
                 {
                     "upper": 1,
@@ -1083,7 +1083,7 @@
         "type": "simple",
         "value": {
             "name": "Coastal Waters Location",
-            "description": "Divine a coastal waters location",
+            "description": "Define a coastal waters location",
             "random-event": [
                 {
                     "upper": 1,
@@ -1160,7 +1160,7 @@
         "type": "simple",
         "value": {
             "name": "Location Descriptor",
-            "description": "Divine a descriptor for your location",
+            "description": "Define a descriptor for your location",
             "random-event": [
                 {
                     "upper": 2,
@@ -1369,7 +1369,7 @@
         "type": "nested",
         "value": {
             "name": "Settlement Name",
-            "description": "Divine the name of a settlement",
+            "description": "Define the name of a settlement",
             "random-oracles": [
                 {
                     "upper": 15,
@@ -1707,11 +1707,11 @@
         "type": "options",
         "value": {
             "name": "Quick Settlement Name Generator",
-            "description": "Quickly divine the name of a settlement.",
+            "description": "Quickly define the name of a settlement.",
             "options": [
                 {
                     "name": "Prefix",
-                    "description": "Divine the prefix",
+                    "description": "Define the prefix",
                     "random-event": [
                         {
                             "upper": 4,
@@ -1817,7 +1817,7 @@
                 },
                 {
                     "name": "Suffix",
-                    "description": "Divine the suffix",
+                    "description": "Define the suffix",
                     "random-event": [
                         {
                             "upper": 4,
@@ -1928,7 +1928,7 @@
         "type": "simple",
         "value": {
             "name": "Settlement Trouble",
-            "description": "Divine the settlement trouble",
+            "description": "Define the settlement trouble",
             "random-event": [
                 {
                     "upper": 2,
@@ -2121,7 +2121,7 @@
         "type": "simple",
         "value": {
             "name": "Character Role",
-            "description": "Divine the role of a character.",
+            "description": "Define the role of a character.",
             "random-event": [
                 {
                     "upper": 2,
@@ -2250,7 +2250,7 @@
         "type": "simple",
         "value": {
             "name": "Character Goal",
-            "description": "Divine the characters goal.",
+            "description": "Define the characters goal.",
             "random-event": [
                 {
                     "upper": 3,
@@ -2391,7 +2391,7 @@
         "type": "simple",
         "value": {
             "name": "Character Descriptor",
-            "description": "Divine a character descriptor.",
+            "description": "Define a character descriptor.",
             "random-event": [
                 {
                     "upper": 1,
@@ -2800,7 +2800,7 @@
         "type": "options",
         "value": {
             "name": "Names",
-            "description": "Divine ...",
+            "description": "Define ...",
             "options": [
                 {
                     "name": "Ironlander names",
@@ -4145,7 +4145,7 @@
         "type": "simple",
         "value": {
             "name": "Combat Action",
-            "description": "Divine a combat action.",
+            "description": "Define a combat action.",
             "random-event": [
                 {
                     "upper": 3,
@@ -4226,7 +4226,7 @@
         "type": "simple",
         "value": {
             "name": "Mystic Backlash",
-            "description": "Divine a mystic backlash.",
+            "description": "Define a mystic backlash.",
             "random-event": [
                 {
                     "upper": 4,
@@ -4335,7 +4335,7 @@
         "type": "simple",
         "value": {
             "name": "Major Plot Twist",
-            "description": "Divine a major plot twist",
+            "description": "Define a major plot twist",
             "random-event": [
                 {
                     "upper": 5,
@@ -4424,7 +4424,7 @@
         "type": "simple",
         "value": {
             "name": "Challenge Rank",
-            "description": "Divine the rank of a challenge",
+            "description": "Define the rank of a challenge",
             "random-event": [
                 {
                     "upper": 20,
